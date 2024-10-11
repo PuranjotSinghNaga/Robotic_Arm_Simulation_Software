@@ -83,7 +83,7 @@ python main.py
 
 ## 🛠Left to Do
 
-- [] Add PySerial support
-- [] Implement Complete Motion Recording and Replay Playing Feature
-- [] Implement a Path Planning Algorithm
-- [] Ui Overhaul
+ - [ ] Add PySerial support
+ - [ ] Implement Complete Motion Recording and Replay Playing Feature
+ - [ ] Implement a Path Planning Algorithm
+ - [ ] Ui Overhaul
