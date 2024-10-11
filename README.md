@@ -1,4 +1,11 @@
 # 🤖 Robotic_Arm_Simulation_Software
+![GitHub License](https://img.shields.io/github/license/PuranjotSinghNaga/Robotic_Arm_Simulation_Software)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/t/PuranjotSinghNaga/Robotic_Arm_Simulation_Software)
+![GitHub Repo stars](https://img.shields.io/github/stars/PuranjotSinghNaga/Robotic_Arm_Simulation_Software?style=flat)
+![GitHub Issues or Pull Requests](https://img.shields.io/github/issues/PuranjotSinghNaga/Robotic_Arm_Simulation_Software)
+![GitHub forks](https://img.shields.io/github/forks/PuranjotSinghNaga/Robotic_Arm_Simulation_Software?style=flat)
+<a href="https://gitpod.io/#https://github.com/Robotics-Society-PEC/Line-Follower.git"><img src="https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod" alt="Gitpod Ready-to-Code"></a>
+
 
 This is a repositorty for a robotic arm simulations software made using [PyBullet](https://pybullet.org/).
 
